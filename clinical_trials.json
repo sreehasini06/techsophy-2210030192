@@ -1,0 +1,44 @@
+[
+  {
+    "id": "trial_001",
+    "title": "Diabetes Drug Study",
+    "inclusion": {
+      "min_age": 18,
+      "max_age": 65,
+      "gender": "any",
+      "conditions": ["diabetes"]
+    },
+    "exclusion": {
+      "conditions": ["heart_disease"]
+    },
+    "location": "Chennai"
+  },
+  {
+    "id": "trial_002",
+    "title": "Hypertension Control Study",
+    "inclusion": {
+      "min_age": 30,
+      "max_age": 70,
+      "gender": "any",
+      "conditions": ["hypertension"]
+    },
+    "exclusion": {
+      "conditions": []
+    },
+    "location": "Delhi"
+  },
+  {
+    "id": "trial_003",
+    "title": "Anxiety",
+    "inclusion": {
+      "min_age": 15,
+      "max_age": 70,
+      "gender": "any",
+      "conditions": ["Anxiety"]
+    },
+    "exclusion": {
+      "conditions": []
+    },
+    "location": "Mumbai"
+  }
+]
